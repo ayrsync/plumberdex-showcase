@@ -51,19 +51,19 @@ PlumberDex is a modern SaaS platform designed for plumber listings, lead generat
 
 ### 🏠 Homepage
 
-![Homepage](./screenshots/home.png)
+![Homepage](./screenshots/plumberHome.png)
 
 ### 📊 Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/plumberDashboard.png)
 
 ### 📍 Listings
 
-![Listings](./screenshots/listings.png)
+![Listings](./screenshots/plumbers.png)
 
-### 📥 Leads
+### 📥 Plumber Claim Dashboard
 
-![Leads](./screenshots/leads.png)
+![Leads](./screenshots/plumberClaim.png)
 
 ---
 
